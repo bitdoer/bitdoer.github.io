@@ -25,12 +25,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: bitdoer.github.io
 baseurl: ""
 url: https://bitdoer.github.io # the base hostname & protocol for your site, e.g. http://example.com
-github_username: bitdoer
 
 # Build settings
 remote_theme: jekyll/minima
 minima:
     skin: dark
+    social_links:
+        github: bitdoer
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
