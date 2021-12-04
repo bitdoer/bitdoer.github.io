@@ -23,6 +23,7 @@ email: bitdoer@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   mathematician and programmer
 domain: bitdoer.github.io
+baseurl: ""
 url: https://bitdoer.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
