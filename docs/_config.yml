@@ -28,9 +28,12 @@ url: https://bitdoer.github.io # the base hostname & protocol for your site, e.g
 github_username:  bitdoer
 
 # Build settings
-theme: jekyll-theme-midnight
+remote_theme: jekyll/minima
+minima:
+    skin: dark
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
