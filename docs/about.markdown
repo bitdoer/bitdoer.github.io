@@ -4,15 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi. I'm Scott Howard. I'm a mathematician and hobbyist programmer from Tennessee. My current major interest is in Rust, which I've been using for various toy projects like implementing various cryptographic hashes and the like.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am also a musician---I've played the piano for 17 years, the guitar for about 10 years, and the bass for about 2 years.

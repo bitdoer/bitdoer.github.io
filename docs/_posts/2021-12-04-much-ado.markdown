@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Much ado..."
+date:   2021-12-04 17:00:00 -0600
+categories: update
+---
+
+Well, it seems I've finally gotten the site to work. I find myself lamenting the state of documentation in many aspects of software life, and here is no exception; but enough of sour grapes, I'm officially *online* now!
+
+To quote Calvin (the child, not the theologian), "Further bulletins as events warrant!"
